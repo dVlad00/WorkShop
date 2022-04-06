@@ -10,6 +10,7 @@ export default function App() {
       }}
     >
       <Text>WorkShop</Text>
+      <Text>Git</Text>
     </View>
   );
 }
