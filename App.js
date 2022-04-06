@@ -11,6 +11,7 @@ export default function App() {
     >
       <Text>WorkShop</Text>
       <Text>WorkShop Git</Text>
+      <Text>Git</Text>
     </View>
   );
 }
